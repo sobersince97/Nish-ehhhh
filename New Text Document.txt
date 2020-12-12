@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+	
+    <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,700' rel='stylesheet' type='text/css'> 
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+
+   
+  </head>
+  <body>
+  
+  
+
+        
+    <!-- HEADER -->
+      
+      <section id="header">
+        
+          <div class="container">
+            
+              <div class="row">
+                  <div class="col-md-6 wow fadeIn" data-wow-delay="1s" data-wow-duration="2s">
+                      <h1>Hello NISHU!</h1>
+                      <p>I hope the time we spend till now was more than what 'WE' yearned for!
+			 Take a glass of BEER'S CAFE WINE and enjoy the tour!</p>
+                  </div>
+                  
+                  <div class="col-md-6 header-right hidden-sm-down wow fadeIn" data-wow-delay="1.5s" data-wow-duration="2s">
+                      <p><img class="img-fluid" src="img/INITIAL.JPG"/></p>
+                  </div>
+              </div>
+              
+              <div class="row wow swing" data-wow-delay="2s">
+                    <div class="col-md-12 text-xs-center">
+                        <a href="#who"><i class="fa fa-chevron-down fa-3x"></i></a>
+                    </div>
+              </div>
+          
+          </div>
+          
+      </section>
+      
+    <!-- END HEADER --  
+  
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>HEY حب / Liebe / 爱 / Amour/ ਪਿਆਰ. </h1>
+                    <p> Favourite summed up in one!</p>
+                    <hr align="left" width="50%">
+                    
+                  <p class="lead">RELIVING MOMENTS</p>
+                    <p> Whether it is mere fate or coincidence that brought us together, it does not really matter! 
+When I try to think of a favorite memory that I share with you, it is hard to pick just one. 
+There are just too many wonderful memories to choose from. I love looking back at our relationship and reliving
+ some of the memories we share together. From the first time we met to our first date,
+ I can’t imagine myself with anyone else in the world but you. All of those moments that 
+we have had have made us who we are as a couple today. I can’t wait to see what memories 
+we go on to create together so we can look back on them happily.
+
+</p>
+                   
+                    
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/all.JPG.jpg"/>
+                    <br>
+                    <p>-NISHKAR (Made from NISHith and KARishma)</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->    
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>SIXTEEN OCTOBER </h1>
+                    <p>National, so what ?</p>
+                    <hr align="left" width="50%">
+                    <p class="lead">ABOUT THE DAY</p>
+                 
+                    <p> I asked Nishu about what he is doing presently. Flaunting things like always he told me,"He had represented Volleyball for India". LOL! Cute 
+boi was expecting a cute reply like AWWWWW!, WOW!,AMAZING! His excitement was crushed when I replied so what many of my friends had done the same! HAHHAAH! 
+Have u heard of a song (" Dilwale puchhh dee ni chhaaa ahhhh ") ! This was his feel that day ! LOL! 
+</p>
+                   
+                    <p class="lead">SOMETHING BAD ABOUT THE DAY  </p>
+              
+                    <p> I could remember someone told me that he will come to Vadodara tomorrow! But then didnot come as had a party! I was pissed that day !</p>
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/national.JPG.jpg"/>
+                    <br>
+                    <p>-Scene to hona hi tha!</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>HOTEL </h1>
+                    <p>Biggest embarassement! </p>
+                    <hr align="left" width="50%">
+                   
+                 
+                    <p> No explaination to this is required! Just look at the picture and laugh loud!</p>
+                   
+                    
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/hotel.JPG.jpg"/>
+                    <br>
+                    <p>-Kya soch ke pucha tha beta?</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>TWENTY OCTOBER </h1>
+                    <p>A ehhhhhhh in a box of Under Armour</p>
+                    <hr align="left" width="50%">
+                    <p class="lead">ABOUT THE DAY</p>
+                 
+                    <p> I basically had no idea that the Starbucks cooffee (19th eve) would go this good to me and would enrich me in a feel where I am today. 
+                    My sudden plan to come to Anand and you being in Anand was like the cheery on the top I must say. That Hotel H ice-cream together with your bestie 
+Kishan was some another kind of an adventure. Later the night, things turned us both, lol not to mention the good things hahahaha. THe incident when we were caught by the police is still fresh 
+in front of my eyes. Followed that the fight u witnessed of my friends! Memorable I guess! The question aditya asked you about the bike ride and drop service is worthy of remembering!
+Followed that MOM'S , cancell of plan because of somebody's xyz reason is still a point to fight on! hahaha ! Lastly, your sadness which i assumed was because you didnt want
+to drop me but later realised the reason was because we were going apart ! Tushar bhai at Vasad lol ! Ur dongiri ! Everything is purely insane!
+</p>
+                   
+                    <p class="lead">SOMETHING SPECIAL ABOUT THE DAY  </p>
+              
+                    <p> My table turned from "MY THING" to "OUR THING"</p>
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/20102020.JPG"/>
+                    <br>
+                    <p>- Just before the catch of the police</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                      <h1>PROVENANCE </h1>
+                    <hr align="left" width="50%">
+                   
+                 
+                    <p> IT Beats <br>
+<br>
+IT Breaks<br>
+<br>
+IT Loves <br>
+<br>
+IT Aches<br>
+<br>
+U for ME, ME for U <br>
+<br>
+For YOU <br>
+<br>
+Only YOU
+</p>
+                  
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/sofa.JPG.jpg"/>
+                    <br>
+                    <p>-Sofa par na suis and more! </p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>ONLY THE VIBES WOULD DO</h1>
+
+<p> Handholds are one of the thing </p>
+                   
+                  
+              
+  
+                </div>
+                 <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/handhold.JPG.jpg"/>
+                    <br>
+                    <p>- MINE</p>
+                </div>
+                
+           
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+      
+      
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>THIRTY OCTOBER</h1>
+                    <!--<p>LONG DRIVE, MIRCH MASALA DAY OUT AND ETC...(if u know)</p>-->
+                    <hr align="left" width="50%">
+                    <p class="lead">PECULARITY ABOUT THE DAY</p>
+                 
+                    <p>Kaam logo se nikalne me to bachpan se manta hu, Karishma mere rupees vasad se lana h , lekar aayega ? hahaha ! Why on that i didnt realise
+that you are hella practical. And I am always gonna cling around sadly!</p>
+
+                    <p class="lead">ABOUT THE DAY</p>
+                
+                
+                  <p>I can't forget the CCD coffee and the shy you where you were like sidhi rehaje ahiya mane badha odhkhe che lol!
+                     Also,Mirch masala chicken and butter milk with as you said your fav "jeera and daniya" lol!  </p>
+
+   <p class="lead">REGRET OF THE DAY </p>
+<p>Things saved for the trip where you couldnt resist. Bt my tolerance overshadowed you. LOL</p>
+                
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/3.JPG"/>
+                    <br>
+                    <p>- Enticing feels!</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>THIRTY FIRST OCTOBER</h1>
+                   
+                    <hr align="left" width="50%">
+                    <p class="lead">ABOUT THE DAY</p>
+                 
+                    <p> Karishma hu one hour mate Vadodara aavu chu chal madiye! Yes, we met! But koi kal vadi gandi t-shirt paheri ne aai gayu tu ! When i 
+dropped him at the bus-station, the security guard said to drop and leave ! Anyhow we sat there ! Thn again I was given a warning - Sidhi bes je else bhagadi dese, 
+ek to aa besva de che ahiya ej bhau che ! Later, that night his child was very happy as he had party with all the police officals! Happier because one of the PSI took
+selfie with him as he plays for India! Karishma hu bahuj high chu kai banaj nathi! Dinner kari ne vaat karu! And ee call koi divas aaayo nathi ! LOL  </p>
+                  
+                   <p class="lead">LATER THAT DAY</p>
+
+<p> This child was very happy as he had party with all the police officals! Happier because one of the PSI took
+selfie with him as he plays for India! Karishma hu bahuj high chu kai bahan j nathi! Dinner kari ne vaat karu! And ee vaat koi divas thai nathi ! LOL  </p>
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/psi.PNG.png"/>
+                    <br>
+                    <p>-After drink, he is the best one! Serene and lovely! </p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>VOYAGE FINALLY</h1>
+                    <p> Only the person matters, not the place and the position </p>
+                    <hr align="left" width="50%">
+                    <p class="lead">ABOUT THE DAY</p>
+                    <p>Bharuch station, train going before my eye, i hope you remember it all! 7th November morning came with different colours where 
+                the person with whom I was going told me to call him  when I reach. My call was ignored as always. Specials ones landed at 8.30-8.45 but cant wait at the 
+room door for 5 minutes. The day was supendous with butterflies all over. The breakfast and the search of a shop where someone was again shy lol ! The lunch at Gokul.
+And the noticing  of people not by moving the actual eye is the talent I learned! lol! The night where because of someone's sleep and tantrums we couldnt find a place
+in a single club! Finally after much of a thing Mocking Bird came as a rescue! 
+</p>
+                    <p class="lead">SPECIAL ABOUT THE DAY </p>
+                    <p> Met new people who were acutally important to you!</p>
+                   <p class="lead">HAPPENING THING ABOUT THE DAY </p> 
+                    <p> Someone walked for more than a Kilometer to buy booze. Secondly, the OLA driver fooled us.</p>
+ <p class="lead">MOST IRRITATING THING</p> 
+                    <p> People celebrate 'NONUT', 'NO SHAVE' NOVEMBER, Someone was celebrating 'NO PICTURES' NOVEMBER.</p>
+                </div>
+                    <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                     <img class="img-fluid" src="img/qwerty.JPG.jpg"/>
+<br>
+                    <p>- Mumbai shirt wala </p>
+                </div>
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+      
+      
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>KAMALA MILLS</h1>
+                    <!--<p>Came like priceless diamond from a rock</p>-->
+                    <hr align="left" width="50%">
+                    <p class="lead">KIND WORDS</p>
+                 
+                    <p> The expedition to "Player h to kya" to "Coffee together" to "Trip" to an impotant place we had captured it all! Sidhi si baat h jo mere
+pass h wahi mera khaas h ! U are both pass and khas! How can i forget, "Ur angry face yelling at me "! Saviour of sanity, companion in Insanity! </p>
+                   <p class="lead"><3</p>
+
+<p> From a casual hi to a masked person and asking him where are you standing while getting a reply in front of you to gossips and deep talks! A bond was created ! warmer thn u think !
+In chaos we met, in madness we grew! In solitude we realised we are the best ones! Hope your birthday is as amazing as you are! See you when i see you until then lots 
+of love! </p>
+                  
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/number.JPG.jpg"/>
+                    <br>
+                    <p>- 145</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+                    
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>CLOSURE</h1>
+                    <p></p>
+                    <hr align="left" width="50%">
+                    <p class="lead">P.S</p>
+                    <p>Caution! Beware! This will make you feel mad.</p>
+                    <p class="lead"> # </p>
+                    <p> Dont worry nothing of which I said is true! Just want to say you are important!I adore the angry you and silent one who really dont speak when it is important!
+ HAPPY BIRTHDAY! </p>
+                 <p class="lead"> WISH </p>
+                    <p> I wish I could go back in time. From then to now, thank you for always smiling alongside! Cheers! Question from KARISHMA to NISHITH: What do u want as your birthday gift? Answer from NISHITH to KARISHMA:
+U cant afford it, it is very costly. I hope the costly thing becomes the reality one fine day! (I hope you remembered what you said) </p>
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/huh.JPG.jpg"/>
+                    <br>
+                    <p>-TSHIRT FINALLY PEHEN HI LI</p>
+                </div>
+           
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>Vitamin "US"</h1>
+                     <img class="img-fluid" src="img/uff1.JPG"/>
+                    <hr align="left" width="50%">
+                  
+                 
+                  
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/uff.JPG"/>
+                    <br>
+                    <p>-SPECIAL DAYS </p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+      
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>FRIENDS ALERT!</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> Baap player</p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p> May be dead block🤭 at gcet,beach volleyball</p>
+ <p class="lead">WORDS FOR YOU  </p>
+ <p> Happy birthday rana!</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/henil.JPG.jpg"/>
+                    <br>
+                    <p>-Henil</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>2</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> The largest ❤️ guy ever . Lucky to have u </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>Never had any embarrassing moments ever </p>
+ <p class="lead">WORDS FOR YOU  </p>
+ <p> Budha 👨🏻‍🦳</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/kishan.JPG.jpg"/>
+                    <br>
+                    <p>-Kishan DON</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+      
+
+
+  
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>3</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> He is the best team player, a good friend and  brother :) </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>It was a Garba night of Pooja's wedding while we were sitting in the room 
+just talking about the night and someone left a lighter on the bed and Rana was sitting next to it, 
+suddenly Kishan's dad arrived in the room and Rana took that lighter in front of him hopefully he did not 
+say a word about it, we were all in the shock and embarrassed that day. </p>
+ <p class="lead">WORDS FOR YOU  </p>
+ <p> happy birthday Rana, have a blast</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/meet.JPG.jpg"/>
+                    <br>
+                    <p>-Meet Patel</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+     
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>4</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> Happy Birthday Bro🤪🤪 </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>Video dekh lo TikTok waala(Epic fail).. Kishan, Rishab😂🤣.. tere Pé banaya nae Qki confuse hogaya itne saare mein se kis Pé banao..  </p>
+<p class="lead">WORDS FOR YOU  </p>
+ <p> See you soon in Canada.</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/pathan.PNG.png"/>
+                    <br>
+                    <p>-Shehzad Pathan</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>5</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> Sync </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>Nothing to ashamed when we are together. </p>
+ <p class="lead">WORDS FOR YOU  </p>
+ <p> Happy birthday brother ❤️🥃 stay blessed and stay same as always</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/riken.JPG.jpg"/>
+                    <br>
+                    <p>-Riken Patel</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>6</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> Chutiyo </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>I have big embarrassing moment with him. Call me if you want to know . </p>
+ <p class="lead">WORDS FOR YOU  </p>
+ <p> Wish U Many Many Happy Returns Of The Day BRO ! Party lav chodiya</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/hp.JPG.jpg"/>
+                    <br>
+                    <p>-HP</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+     
+<!-- WHO -->
+      
+      <section id="who">
+        <div class="container">
+            <div class="row">
+            
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <h1>7</h1>
+                    
+                    <hr align="left" width="50%">
+                    <p class="lead">ONE LINER</p>
+                 
+                    <p> Hosiyari </p>
+                   
+                    <p class="lead">MOST EMBARRASING MOMENT  </p>
+              
+                    <p>5 min (inorbite mall)  </p>
+<p class="lead">WORDS FOR YOU  </p>
+ <p> Happy Birthday Bro 🥃🥃</p>
+
+                </div>
+                
+                <div class="col-md-6 wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
+                    <img class="img-fluid" src="img/maharshi.JPG.jpg"/>
+                    <br>
+                    <p>-Maharshi</p>
+                </div>
+            
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END WHO -->
+
+<!-- SOCIAL -->
+      
+      <section id="social">
+        <div class="container wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
+            <div class="row">
+            
+                <div class="col-md-6">
+                    <h2>If someone wants to wish him directly :</h2>
+                    <hr align="left" width="50%">
+                    <p>Here are the few ways</p>
+                </div>
+                
+                <div class="col-md-6">
+                    <ul class="list-inline">
+                       
+                        <li class="list-inline-item"><a href="https://www.instagram.com/nsinh__rana/?hl=en"><i class="fa fa-instagram"></i></a></li>
+                        
+                    </ul>
+                </div>
+                
+            </div>  
+        </div>
+      </section>
+      
+    <!-- END SOCIAL -->
+      
+    
+    
+     
+    <!-- FOOTER -->
+      
+      <section id="footer">
+        <div class="container wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1.5s" text-align=center>
+            <center>Thank You | Made with <span style="color: #e25555;">&#9829;</span> by Karishma</center>
+            
+        </div>
+      </section>
+      
+    <!-- END FOOTER -->
+      
+
+     <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" integrity="sha384-VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU" crossorigin="anonymous"></script>
+      
+      <script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
+			  
+  </body>
+</html>
